@@ -1,3 +1,3 @@
 # hello-world
 hello-world is my first github repository
-first change update
+my first second update
